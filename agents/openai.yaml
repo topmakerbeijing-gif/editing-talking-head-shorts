@@ -1,0 +1,4 @@
+interface:
+  display_name: "口播短视频剪映流程"
+  short_description: "剪映口播短视频通用流程与风格预设沉淀"
+  default_prompt: "Use $editing-talking-head-shorts to plan or analyze a CapCut talking-head short."
